@@ -33,7 +33,7 @@
     100%{ background-color: rgb(48, 44, 44) }
 }
 .nubes{
-    background-image: url(fondo1.png);
+    background-image: url(images/fondo1.png);
     background-repeat: repeat-x;
     position: absolute;
     top:10%;
@@ -54,7 +54,7 @@
 
 
 .ciudad{
-    background-image: url(ciudad.png);
+    background-image: url(images/ciudad.png);
     background-repeat: repeat-x;
     background-position:0px 100px ;
     position: absolute;
@@ -82,7 +82,7 @@
     text-align: center;
 }
 .bici .marco{
-    background-image: url(marcobici.png);
+    background-image: url(images/marcobici.png);
     display: inline-block;
     width: 98px;
     height: 56px;
@@ -90,7 +90,7 @@
 
 }
 .bici .llanta{
-    background-image: url(llanta.png);
+    background-image: url(images/llanta.png);
    width: 55px;
     height:56px;
     display: inline-block;
